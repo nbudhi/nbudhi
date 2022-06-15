@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nbudhi
-- 👀 I’m interested in Microsoft and Data related Technologies.
+- 👀 I’m interested in Microsoft & Data related technologies.
 - 🌱 I’m currently learning Terraform.
-- 💞️ I’m looking to collaborate on operational data.
+- 💞️ I’m looking to collaborate on operationalising data.
 - 📫 How to reach me.
 
 <!---
